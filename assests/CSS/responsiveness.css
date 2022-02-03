@@ -1,0 +1,360 @@
+@media (max-width: 576px){
+  
+  body{
+      width: 100%;
+      overflow-x: hidden;
+  }
+  
+    .navbar{
+        width: 93%;
+    margin-top: 19px;
+    height: 70px;
+
+}
+.header{
+    position: sticky;
+    top: 0px;
+}
+.header2{
+    width: 99%; 
+}
+.navbar li a{
+    font-size: 3vw;
+    padding: 15px;
+    height: 10px;
+}
+.right{
+    width: 25%;
+    align-items: center;
+    margin: 0px;
+   
+}
+.right input{
+
+width: 100%;}
+.ff{
+    width: 30%;
+    align-items: center;
+  margin-top: 10px;
+}
+.olxlogo{
+    height: 7vh;
+    padding: none;
+    width: 11vw;
+}
+.olxlogoimg{
+    width: 100%;
+}
+.header2{
+    margin: 0px;
+    height: 66px;
+   
+}
+.ad{
+   margin-left: 5px;
+    width: 352px;
+    height: 106px;
+}
+.card{
+    justify-content: center;
+   
+}
+.img{
+  height: 19vh;
+}
+.buttons{
+    width: 300px;
+}
+.login{
+    margin: 0px;
+}
+
+.Selection{
+    width: 100%;
+}
+.buttons{
+   width: 35%;
+    margin: 0px;
+    margin-left: 10px;
+}
+.mid{
+    width: 38%;
+    margin: 0px;
+    margin-left: 15px;
+}
+.input2 input{
+    width: 40%;
+    font-size: 15px;
+}
+.ss{
+    width: 35%;
+}
+
+.sell{
+    
+    margin-left: 10px;
+    right: 10px;
+}
+.categories{
+    overflow-x: scroll;
+    margin: 0px;
+    width: 97vw;
+    font-size: 0.7rem;
+}
+
+.card{
+    margin-left: 20px;
+    justify-content: center;
+  
+}
+
+.categories li{
+    font-weight: 700;
+    margin-left: 5px;
+    padding: 5px;
+}
+
+.img{
+    height: 26vh;
+    width: 100%;
+}
+.img img{
+    width: 100%;
+    height: 100%;
+}
+
+.ad img{
+    width: 100%;
+    height: 100%;
+}
+.ad a{
+    height: 100%;
+}
+   
+.BTN{
+    width: 100px;
+}
+
+.pic{
+    width: 40%;
+    height: 155px;
+   
+}
+.pic img{
+    width: 50%;
+    height: 100%;
+   
+}
+.second{
+
+    width: 50%;
+}
+.pic p{
+    width: 100%;
+    font-weight: 700;
+    font-size: 10px;
+    margin: 0px;
+
+}
+.images{
+    margin: 0;
+    margin-left: 20px;
+    width: 45%;
+}
+.vertical{
+    margin-left: 20px;
+    border: none;
+}
+.heading{
+    margin-left: 20px;
+   
+}
+.help{
+    margin-left: 15px;
+}
+.apps{
+  
+    width: 100%;
+    margin: 0;
+}
+.apps img{
+    margin-left: 1px;
+    width: 31%;
+    margin: 0px;
+}
+.card{
+    justify-content: normal;
+    margin: 0 auto;
+  
+}
+.apps img:hover{
+    cursor: pointer;
+}
+.last{
+    height: 300px;
+}
+
+.same1{
+    width: 134px;    
+}
+
+.same2{
+    width: 38%;
+}
+.all{
+    margin: 0;
+    width: 137px;
+margin-left: 209px;
+}
+
+.trio{
+    flex-direction: column;
+    justify-content: normal;
+    margin-left: 30px;
+    align-items: normal;
+}
+.contacts{
+    margin: 0;
+    width: 120px;
+    justify-content: space-around;
+
+}
+.contacts li{
+    margin: 0;
+}
+.pp{
+    display: none;
+}}
+@media (max-width: 768px){
+    body{
+        overflow-x: hidden;
+    }
+    
+.card{
+    justify-content: center;
+}
+
+
+}
+@media (min-width: 768px){
+    body{
+        overflow-x: hidden;
+    }
+    
+    .sell{
+        width: 80px;
+        margin-left: 25px;
+    }
+    .t{
+        width:115px ;
+    }
+    .categories li{
+        font-size: 14px;
+        font-weight: 700;
+    }
+    .ad{
+       margin: 20px auto;
+    }
+    .BTN{
+        width: 80px;
+    }
+    .pic img{
+        width: 300px;
+    }
+    .t{
+        width: 150px;
+    }
+    .input2 input{
+        width: 34.5vw;
+    }
+    .card{
+        justify-content: center;
+        margin-left: 10px;
+    }
+    .card-item{
+        margin: 5px 10px;
+    }
+     
+    .apps img{
+        width: 30%;
+    }
+    .apps img:hover{
+        cursor: pointer;
+    }
+    
+
+
+}
+@media (min-width: 992px) {
+    body{
+        overflow-x: hidden;
+    }
+    .input2 input{
+        width: 350px;
+    }
+    .all{
+        width: 169px;
+        font-size: 15px;
+    }
+    .ad{
+        margin: 20px 40px;
+        margin-left: 104px;
+    }
+    .t{
+        width: 90%;
+    }
+    .arrow2{
+        margin:0;}
+    .pic{
+        width: 700px;
+    }
+    .heading{
+        font-size: 20px;
+    }
+    .apps{
+        margin: 0px;
+    }
+    .apps img{
+        width: 30%;
+    }
+    .apps img:hover{
+        cursor: pointer;
+    }
+    .header2{
+        width: 94%;
+        margin-left: 30px;
+    } 
+    .buttons{
+        width: 200px;
+    }
+    .BTN{
+        height: 40px;
+        width:12vw;
+    }
+    .pic{
+    width: 573px;
+}
+.last{
+    margin-left: 10px;
+}
+.card{
+    margin-left: 10px;
+}
+}
+@media (min-width: 1046px){
+    body{
+      overflow-x: hidden;
+       
+    }
+    .last{
+        margin: 0px;
+    }
+    .input2 input{
+        width: 34.5vw;
+    }
+    .categories li{
+        font-size: 20px;
+    }
+}
+
+                         
